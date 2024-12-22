@@ -1,0 +1,2 @@
+# R Subsetting Bug
+This repository demonstrates a common error in R programming related to data frame subsetting.  Incorrect quoting or misplaced commas when using logical indexing can lead to unexpected errors. The `bug.R` file showcases the problematic code. The solution, provided in `bugSolution.R`, illustrates the correct approach.
